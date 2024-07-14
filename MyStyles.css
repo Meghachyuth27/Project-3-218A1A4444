@@ -1,0 +1,26 @@
+body,h1,h2,p,ul,li{
+    margin:5;
+    padding: 5;
+}
+h1{
+    color: antiquewhite;
+}
+h2{
+    color: aqua;
+}
+p{
+    color: blue;
+}
+body{
+    background-color:darkslategrey;
+    font-family: cursive;
+}
+ul{
+    color: aquamarine;
+}
+li{
+    color: yellow;
+}
+text{
+    color: burlywood;
+}
